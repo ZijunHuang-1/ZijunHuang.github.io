@@ -5,7 +5,7 @@ image: images/keyboard1.jpg
 title: Keyboard
 permalink: projects/Keyboard
 # All dates must be YYYY-MM-DD format!
-date: 12-11-20
+date: 2020-12-13
 labels:
   - Engineering
   - DIY
