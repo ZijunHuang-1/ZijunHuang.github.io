@@ -1,61 +1,20 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/calculator.jpg
+title: Calculator
+permalink: projects/calculator
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-09-03
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Eclipse
+summary: A program that preforms 4 function calculations
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/calculator.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I wrote codes to build a four function calculator using Java in my early days of coding. The program provide the calculator to the user, and user can type the number 1-4 to choose the type of calculator function. Input validation is implemented in this program, it checks if the user type the numbers from 1-4. The program will tell the user if he didn't input the number from 1-4, then it will ask the user if he wants to calculate again. 
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+I implemented the input validation using if/else statements. I also implemented four different functions for the different type of calculations chose by the user. I didn't choose to use a switch statement for the input validation because I didn't learn about the switch statement when I coded this project. Reflecting back on this project, using a switch statement will shorten the amount of code written. I could've also just shorten the code for the calculation by using one function, and use the switch statement within the function. I practiced coding with function and input validation in this Calculator program, and it was helpful to build my Java language skill. 
 
