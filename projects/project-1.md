@@ -9,6 +9,7 @@ date: 12-11-2020
 labels:
   - Engineering
   - DIY
+  - Json
 summary: Assembling my own mechanical keyboard.
 ---
 
