@@ -1,25 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/shape
+title: Number Shape
+permalink: projects/number-shape
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-08-28
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Eclipse
+summary: Printing shapes using numbers.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/shape.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I wrote the code of building shapes using numbers when I first learn the Java language. This code takes in user input and stores the values of the input. In the code, I used a do-while loop in order to check if the user typed in a number from 5 to 15. If the user input is invalid, the program will tell the user to retype the number until the user gives a valid input.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The program also uses a for loop in order to print out numbers, and also to display them in a pyramid shape to give the user a visual. In this program, I also practiced my comment skill when coding. I give a description of what each group of code does, so I can look back at the comments and understand my code without reading all the code. These small projects coding with Java is where I learn my fundamentals, and helped me build my programming skill.
+
+Source code to be made available soon
