@@ -12,7 +12,7 @@ labels:
 summary: Printing shapes using numbers.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/shape.png">
+<img class="ui medium right floated rounded image" src="../images/shape.jpg">
 
 I wrote the code of building shapes using numbers when I first learn the Java language. This code takes in user input and stores the values of the input. In the code, I used a do-while loop in order to check if the user typed in a number from 5 to 15. If the user input is invalid, the program will tell the user to retype the number until the user gives a valid input.
  
