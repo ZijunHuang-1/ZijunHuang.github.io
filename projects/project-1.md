@@ -13,10 +13,11 @@ summary: Assembling my own mechanical keyboard.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/keyboard1.jpg">
+  <img class="ui image" src="../images/pcb.jpg">
+  <img class="ui image" src="../images/solder.jpg">
+  <img class="ui image" src="../images/material.jpg">
+
 </div>
 
 Mechanical Keyboard is a project where I bought each individual keyboards parts and assembled the entire board on my own. My mechanical keyboard has the same feature as other keyboard sold in retail store. However, I customize my board from keyboard switches, plate, foam, films, keycaps and the firmware file. 
