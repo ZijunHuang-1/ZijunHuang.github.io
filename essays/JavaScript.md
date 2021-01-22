@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Experience with Javascript
 # All dates must be YYYY-MM-DD format!
-date: 2021-1-20
+date: 2021-01-20
 labels:
   - Software Engineering
   - Learning
