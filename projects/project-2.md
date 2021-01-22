@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/shape.jpg
+image: https://zijunhuang-1.github.io/images/shape.jpg 
 title: Number Shape
 permalink: projects/number-shape
 # All dates must be YYYY-MM-DD format!
