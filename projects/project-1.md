@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/keyboard1.jpg
 title: Keyboard
-permalink: projects/micromouse
+permalink: projects/Keyboard
 # All dates must be YYYY-MM-DD format!
 date: 12-11-2020
 labels:
