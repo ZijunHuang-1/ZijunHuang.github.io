@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Keyboard
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 12-11-2020
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Engineering
+  - DIY
+summary: Assembling my own mechanical keyboard.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +19,11 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Mechanical Keyboard is a project where I bought each individual keyboards parts and assembled the entire board on my own. My mechanical keyboard has the same feature as other keyboard sold in retail store. However, I customize my board from keyboard switches, plate, foam, films, keycaps and the firmware file. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+ To build my own keyboard, I've researched into all the material I need in order to build the board by reading blogs and watching tutorial videos online. The process of building my keyboard started with applying keyboard lubricant to keyboard switch "stem", "feet" and the "housing". This reduces the rattle sound and improves the smoothness of the switches. I rewrote the firmware file basing off the open source file that was published online. One of the problems I encountered was trouble compiling the firmware code, which was resolved after rereading the entire code and making changes to my mistakes. I flashed the firmware into the keyboard's PCB(Printed circuit board) using QMK software. The flashing process enables communications between the keyboard switches and the PCB. Other steps assembling the board included soldering electrical solder with the switch on the PCB, install screws with the PCB and plate on to the keyboard case, and assembling keycaps on to the switches. 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Skills I practiced when building my own custom mechanical keyboard is patience, perseverance and being precise. I've encountered the thought of giving up when my firmware file wouldn't compile, I was very frustrated but thought about how nice it will be when I type on a keyboard that I assembled all the parts myself. That thought allowed me to reanalyze my code and fix the mistake in the code. The soldering process was time consuming and require me to be very precise soldering keyboard switches on the PCB. I have to be very cautious to not point the soldering on the PCB while trying to apply the solder that connects the keyboard switches with the PCB. I was satisfied building my own mechanical keyboard by assembling all the parts, rather than buying a prebuilt keyboard from a store. 
 
 
 
