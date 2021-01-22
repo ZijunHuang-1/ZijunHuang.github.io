@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/shape
+image: images/shape.jpg
 title: Number Shape
 permalink: projects/number-shape
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-28
+date: 2020-01-20
 labels:
   - Java
   - Eclipse
