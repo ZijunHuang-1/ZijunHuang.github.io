@@ -9,8 +9,8 @@ labels:
   - Learning
 ---
 
-<img class="ui medium left image" src="../images/old google.png">
-<img class="ui medium left image" src="../images/search.png">
+<img class="ui medium left image" src="../images/old google.jpg">
+<img class="ui medium left image" src="../images/search.jpg">
 
 
 The journey of my bachelor of Computer Science degree started with my curiosity when I took a Java class at senior year of high school. This is when I was first introduced to the idea of coding and the Java language. This class wasn’t as intense as the math or physics class, the class time were use to build mini games or practice coding exercises. What led me to choose Computer Science as my degree for college was a video shown by my Java class teacher. The video show how almost any field today can use computer and software to solve problems. I thought it was astonishing how computers programs play a role today’s society. As I learn more about software development and the skillset require to build complex program, I became more aware I do not want to stare at lines of code all day. 
