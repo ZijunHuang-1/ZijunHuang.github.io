@@ -18,3 +18,4 @@ I wrote codes to build a four function calculator using Java in my early days of
 
 I implemented the input validation using if/else statements. I also implemented four different functions for the different type of calculations chose by the user. I didn't choose to use a switch statement for the input validation because I didn't learn about the switch statement when I coded this project. Reflecting back on this project, using a switch statement will shorten the amount of code written. I could've also just shorten the code for the calculation by using one function, and use the switch statement within the function. I practiced coding with function and input validation in this Calculator program, and it was helpful to build my Java language skill. 
 
+Source code to be made available soon
