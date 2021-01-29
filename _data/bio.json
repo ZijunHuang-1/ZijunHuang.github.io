@@ -77,14 +77,25 @@
     {
       "company": "UH Manoa Information Technology Center",
       "position": "Student Network Operation Technician",
-      "website": "",
       "startDate": "2020-08-01",
       "endDate": "Present",
       "highlights": [
         "Work in a team to install and maintain data network connectivity for the University of Hawaii Manoa",
-        "Troubleshoot and diagnose data network problems"
+        "Troubleshoot and diagnose data network problems",
+        "Communicate with data network users on problems and corrective actions taken"
       ]
     },
+    {
+      "company": "L&L Hawaiian Barbeque",
+      "position": "Cashier",
+      "startDate": "2019-11-01",
+      "endDate": "Present",
+      "highlights": [
+        "Greeted customers and provided excellent customer service",
+        "took and rang up orders and handled payments",
+        "balance the needs of multiple customers simultaneously in a fast-paced retail environment"
+      ]
+    }
     
   ],
   
