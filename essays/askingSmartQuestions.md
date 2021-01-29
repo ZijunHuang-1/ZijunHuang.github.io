@@ -26,4 +26,5 @@ In the example where a stackOverflow ask “How do you create a remote Git branc
 
 In the example of a non-effective way of asking question. A Stack overflow user ask: “Why my code doesn’t work on Internet Explorer”. The question header is vague, then the user proceeds to just showing snippets of his code and a picture of the error. The user doesn’t explain exactly provide a explanation to what is his problem, he also doesn’t explain what he is working on. Stack overflow users have to guess what he is working on in the comments. This method of asking question complicates the experience for the person asking the question and the person trying to solve the question. It is time consuming and non-effective.  
 
-
+Smart Question link: https://stackoverflow.com/questions/1519006/how-do-you-create-a-remote-git-branch/27185855#27185855
+"Bad" question link: https://stackoverflow.com/questions/14475319/why-my-code-doesnt-work-on-internet-explorer
