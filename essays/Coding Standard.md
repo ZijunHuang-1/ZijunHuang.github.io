@@ -8,6 +8,7 @@ labels:
   - UI/UX
   - Learning
 ---
+<img class="ui tiny left circular floated image" src="../images/eslint.jpg">
 
 The importance of coding standards
 
