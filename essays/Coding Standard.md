@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Interest in UI/UX
+title: Importance in coding standards
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-20
+date: 2021-02-11
 labels:
-  - UI/UX
+  - IntelliJ
   - Learning
+  - ESLint
 ---
 <img class="ui tiny left circular floated image" src="../images/eslint.png">
 
