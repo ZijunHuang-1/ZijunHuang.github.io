@@ -9,10 +9,6 @@ labels:
   - HTML/CSS
   - Essay
 ---
-<img class="ui tiny left circular floated image " src="../images/semanticUI.png">
-
-
-
 
    Coming from an HTML and JavaScript background, there is definitely a learning curve when I learned how to use a framework. At first, I was excited to learn a framework because my previous HTML projects look ugly, and a framework can make a website looks more elegant. Then I felt disappointed in the framework I learned because it did not have some feature, I thought it would have. The framework I learned was called Semantic UI. I initially thought Semantic UI would help me customize every aspect of a website I wanted. However, I found out Semantic UI provides a limited feature. 
 
@@ -24,3 +20,5 @@ labels:
             
 ## To conclude
    My experience with Semantic UI was great. I like that this framework is meant for someone who just wants to create a website with nice aesthetics. The simplicity of the documentation makes it very user-friendly even for someone who is not a developer. However, frameworks like React has a bigger library that contains more component. I’m excited I will be learning that soon!
+   
+   <img class="ui tiny left circular floated image " src="../images/semanticUI.png">
