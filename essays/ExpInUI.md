@@ -9,7 +9,7 @@ labels:
   - HTML/CSS
   - Essay
 ---
-<img class="ui tiny left circular floated image" src="../images/semanticUI.png">
+<img class="ui tiny left circular floated image.width = "300" " src="../images/semanticUI.png">
 
    Coming from an HTML and JavaScript background, there is definitely a learning curve when I learned how to use a framework. At first, I was excited to learn a framework because my previous HTML projects look ugly, and a framework can make a website looks more elegant. Then I felt disappointed in the framework I learned because it did not have some feature, I thought it would have. The framework I learned was called Semantic UI. I initially thought Semantic UI would help me customize every aspect of a website I wanted. However, I found out Semantic UI provides a limited feature. 
 
