@@ -18,6 +18,6 @@ labels:
 
 ## The cons
           When I recreated keyforge.com, I wanted the center image of the website to zoom in when a mouse is hover over the image. However, Semantic UI didn’t have this feature. Semantic UI also did not have the component to display pictures from a slideshow. The cons of Semantic UI are that this framework is not meant for a developer who wants to design every aspect of the website. 
-           
+            
 ## To conclude
            My experience with Semantic UI was great. I like that this framework is meant for someone who just wants to create a website with nice aesthetics. The simplicity of the documentation makes it very user-friendly even for someone who is not a developer. However, frameworks like React has a bigger library that contains more component. I’m excited I will be learning that soon!
