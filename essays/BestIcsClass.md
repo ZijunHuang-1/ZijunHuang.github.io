@@ -15,6 +15,7 @@ labels:
 ## User Interface Framework
 
   A User Interface Framework is a structure that defines the user interface. There are many User Interface Framework people have coded already. A developer can just use a framework to design interface element, rather than spending time on the structure of the interface. Learning User Interface Framework is very beneficial to me because UI/UX designer often uses the frameworks for the web development. In bigger companies like Facebook and Google, their UI/UX designer code their own framework. Those frameworks help their UI/UX and full stack developers to design their own website more easily. While I don’t want to code the frameworks itself, in the future I will be using the frameworks to design different aspect of my website. If I want to code an aesthetic way to display a picture on a website. I would just look into the framework API and choose a specific design to the frame to showcase the picture. The User Interface Framework was a powerful tool I learned.
+  
   <img class="ui tiny left circular floated image " src="../images/react.png">
   
 ## Agile Project Management 
