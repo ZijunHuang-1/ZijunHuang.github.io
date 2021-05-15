@@ -51,6 +51,15 @@
         "C++",
         "Java",
         "Javascript"
+        "HTML/CSS"
+      ]
+    },
+    {
+      "name": "Framework",
+      "level": "",
+      "keywords": [
+        "Semantic-UI",
+        "React"
       ]
     },
     {
